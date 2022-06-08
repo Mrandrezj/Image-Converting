@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/clear.jpg</file>
+    <file>icons/exit.png</file>
+    <file>icons/export.png</file>
+    <file>icons/open.jpg</file>
+    <file>icons/redo.jpg</file>
+    <file>icons/save.png</file>
+    <file>icons/save_as.jpg</file>
+    <file>icons/undo.jpg</file>
+  </qresource>
+</RCC>
